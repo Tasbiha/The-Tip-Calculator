@@ -25,7 +25,7 @@ field and I thought something was wrong with my code and I kept re-starting.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2015] [Tasbiha Chowdhury]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
